@@ -11,6 +11,6 @@ function forLoop(array){
 
 function whileLoops(number){
   while number > 0{
-    conosle.log ()
+    conosle.log (--number)
   }
 }
