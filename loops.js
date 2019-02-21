@@ -16,4 +16,4 @@ function whileLoop(number){
   return `done`
 }
 
-function doWhileLoop(integ=rger)
+function doWhileLoop(number)
