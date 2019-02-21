@@ -10,7 +10,7 @@ function forLoop(array){
 }
 
 function whileLoops(number){
-  while number > 0{
+  while (number > 0){
     conosle.log (--number)
   }
   return
