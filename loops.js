@@ -13,4 +13,5 @@ function whileLoops(number){
   while number > 0{
     conosle.log (--number)
   }
+  return
 }
